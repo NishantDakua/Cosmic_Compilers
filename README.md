@@ -1,6 +1,6 @@
-# 🛡️ Advanced AI Review Analysis System
-
 <div align="center">
+
+# 🛡️ Advanced AI Review Analysis System
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![AI Model](https://img.shields.io/badge/AI-Gemini%202.0%20Flash-green.svg)
@@ -10,6 +10,22 @@
 **🚀 Next-Generation Review Fraud Detection with AI-Powered Intelligence**
 
 *Protecting your business from fake reviews with cutting-edge machine learning and computer vision*
+
+</div>
+
+---
+
+## 👥 Team Details
+
+<div align="center">
+
+| Detail         | Info                           |
+|----------------|--------------------------------|
+| **Team Name**  | COSMIC COMPILERS               |
+| **Domain**     | Artificial Intelligence / Machine Learning (AIML) |
+| **Problem ID** | AIML-01                        |
+| **Leader**     | Nishant Dakua                  |
+| **Members**    | Parth Sawant <br>Pranjali Sangavekar<br>Chetan Shende |
 
 </div>
 
