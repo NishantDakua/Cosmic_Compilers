@@ -8,11 +8,6 @@
 ![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen.svg)
 
 
-Team Members :
-Member 1 - Parth Sawant
-Member 2 - Pranjali Sangavekar
-Member 3 - Chetan Shende
-Member 4 - Nishant Dakua
 
 *🚀 Next-Generation Review Fraud Detection with AI-Powered Intelligence*
 
