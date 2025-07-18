@@ -7,15 +7,19 @@
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen.svg)
 
-Team Members :
-Member 1 - Parth Sawant
-Member 2 - Pranjali Sangavekar
-Member 3 - Chetan Shende
-Member 4 - Nishant Dakua
+---
 
-*🚀 Next-Generation Review Fraud Detection with AI-Powered Intelligence*
+### 👥 Team Members
 
-Protecting your business from fake reviews with cutting-edge machine learning and computer vision
+- **Member 1** - Parth Sawant  
+- **Member 2** - Pranjali Sangavekar  
+- **Member 3** - Chetan Shende  
+- **Member 4** - Nishant Dakua  
+
+---
+
+🚀 **Next-Generation Review Fraud Detection with AI-Powered Intelligence**  
+*Protecting your business from fake reviews with cutting-edge machine learning and computer vision*
 
 </div>
 
@@ -24,32 +28,34 @@ Protecting your business from fake reviews with cutting-edge machine learning an
 ## 🌟 Why Our System Stands Apart
 
 ### 🧠 *Revolutionary AI Intelligence*
-- *Gemini 2.0 Flash Model Integration*: Leveraging Google's most advanced language model for unparalleled review analysis
-- *Real-time Processing*: Lightning-fast analysis with 95%+ accuracy rates
-- *Contextual Understanding*: Deep comprehension of sentiment, authenticity, and business context
+- **Gemini 2.0 Flash Model Integration**: Leveraging Google's most advanced language model for unparalleled review analysis  
+- **Real-time Processing**: Lightning-fast analysis with 95%+ accuracy rates  
+- **Contextual Understanding**: Deep comprehension of sentiment, authenticity, and business context  
 
 ### 🎯 *Purchase Verification Priority*
-- *Smart Verification Logic*: Verified purchasers receive automatic authenticity boost
-- *Timeline Analysis*: Sophisticated purchase-to-review timing evaluation
-- *Business-First Approach*: Protects genuine customers while catching sophisticated fakes
+- **Smart Verification Logic**: Verified purchasers receive automatic authenticity boost  
+- **Timeline Analysis**: Sophisticated purchase-to-review timing evaluation  
+- **Business-First Approach**: Protects genuine customers while catching sophisticated fakes  
 
 ### 🖼 *Advanced Computer Vision*
-- *Image Authentication*: Detects stock photos vs genuine user images
-- *Product Matching*: Verifies if images match the reviewed product
-- *Visual Sentiment Analysis*: Cross-references image content with review sentiment
+- **Image Authentication**: Detects stock photos vs genuine user images  
+- **Product Matching**: Verifies if images match the reviewed product  
+- **Visual Sentiment Analysis**: Cross-references image content with review sentiment  
 
 ### 🌐 *Web-Scale Content Detection*
-- *Copied Content Detection*: Scans the entire web for plagiarized reviews
-- *Multi-Source Verification*: Cross-references content across platforms
-- *Real-time Web Search*: Instant detection of recycled review content
+- **Copied Content Detection**: Scans the entire web for plagiarized reviews  
+- **Multi-Source Verification**: Cross-references content across platforms  
+- **Real-time Web Search**: Instant detection of recycled review content  
 
 ### 📊 *Enterprise-Grade Analytics*
-- *Comprehensive Dashboards*: Deep insights into review patterns and trends
-- *Risk Assessment*: Multi-dimensional scoring system
-- *Batch Processing*: Handle thousands of reviews simultaneously
+- **Comprehensive Dashboards**: Deep insights into review patterns and trends  
+- **Risk Assessment**: Multi-dimensional scoring system  
+- **Batch Processing**: Handle thousands of reviews simultaneously  
 
 ---
 
 ## 🔥 Core Features
 
 ### 🎯 *Intelligent Classification System*
+
+<!-- You can add feature details or leave it as heading depending on content following this section -->
