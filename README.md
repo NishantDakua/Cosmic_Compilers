@@ -31,6 +31,11 @@
 
 ---
 
+## 📌 Problem Statement
+> *"Develop an ML-powered tool that flags customer reviews as 'Likely Genuine' or 'Suspicious' based on repetition, metadata, sentiment, and timing. Help platforms and consumers detect manipulated reviews that escape manual moderation."*
+
+---
+
 ## 🌟 Why Our System Stands Apart
 
 ### 🧠 **Revolutionary AI Intelligence**
